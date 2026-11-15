@@ -1,0 +1,27 @@
+# NovintiX
+> The MedTech Lifecycle Partner — AI-readable site manifest
+
+NovintiX (novintix.com) is a MedTech lifecycle services company founded in 2023 by industry veterans.
+Services: Product Engineering & Discovery, Supply Chain, Manufacturing, Quality & Regulatory Compliance, Clinical Affairs, Digital & AI.
+AI Product: ProofX — AI-native V&V test-proof system of record for regulated medical devices and SaMD.
+Global hubs: Exton PA (US HQ) · Dublin (EU Regulatory Gateway) · Coimbatore (APAC Engineering Hub).
+~100 specialists, 150+ years combined MedTech leadership, 5.0/5 Indeed rating.
+
+## Pages
+- / — Homepage
+- /services/product-engineering — Product Engineering & Discovery
+- /services/supply-chain — Supply Chain
+- /services/manufacturing — Manufacturing
+- /services/quality-regulatory — Quality & Regulatory Compliance
+- /services/clinical-affairs — Clinical Affairs
+- /services/digital-ai — Digital & AI Hub
+- /proofx — ProofX AI V&V product showcase and pricing
+- /customers — Filterable MedTech case studies
+- /insights — The Lifecycle Brief regulatory watch hub
+- /about — Company story, leadership, hubs
+- /careers — Open roles: Data Architect, ETL Tester, Validation Engineer, Quality Engineer
+- /contact — Book a 30-minute consult
+
+## Contact
+Email: hello@novintix.com
+LinkedIn: https://www.linkedin.com/company/novintix
