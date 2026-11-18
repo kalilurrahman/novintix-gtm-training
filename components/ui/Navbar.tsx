@@ -17,6 +17,7 @@ const navLinks = [
   { href: '/proofx', label: 'ProofX' },
   { href: '/customers', label: 'Customers' },
   { href: '/insights', label: 'Insights' },
+  { href: '/training', label: 'Training' },
   { href: '/about', label: 'About' },
   { href: '/careers', label: 'Careers' },
 ]

@@ -31,6 +31,7 @@ const company = [
   { href: '/proofx', label: 'ProofX' },
   { href: '/customers', label: 'Customers' },
   { href: '/insights', label: 'Insights' },
+  { href: '/training', label: 'GTM Training Academy' },
 ]
 
 const hubs = [
